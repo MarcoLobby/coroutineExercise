@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CoroutineExercise</string>
+    <string name="HelloText">Insert number and click button to show value +1</string>
+    <string name="InsertNumber">Insert here you number</string>
+    <string name="increase">Increase</string>
+</resources>
